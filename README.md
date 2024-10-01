@@ -1,6 +1,6 @@
 # Responsive Web Design - Build a Technical Documentation Page
 
-Live link: https://arig501.github.io/Technical-Documentation-Page/
+Live link: https://ari-501.github.io/Technical-Documentation-Page/
 
 Objective: Build an app that is functionally similar to https://technical-documentation-page.freecodecamp.rocks
 
